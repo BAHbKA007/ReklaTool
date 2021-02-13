@@ -1,1 +1,15 @@
-//
+// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+//@import 'variables';
+
+// Bootstrap
+//@import '~bootstrap/scss/bootstrap';
+
+.gr-background {
+    background-image: url("assets/images/GR_BG.jpg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: cover; 
+}
