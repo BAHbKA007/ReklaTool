@@ -3,8 +3,7 @@
 @section('content')
 <body>
     <div class="app-container app-theme-white body-tabs-shadow fixed-sidebar fixed-header">
-        chabuk
-    penis
+        
         @include('layouts.navbar')
 
         <div class="app-main">
